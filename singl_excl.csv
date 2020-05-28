@@ -1,0 +1,401 @@
+﻿answers;Филлер/стимул;sent_type;single/pair;порядок;syntacticrole;cordination;id;пол;возраст;уровень образования;сфера;sentence;правильность филлера;номер предложения;order
+4;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id1;Мужской;20;Неоконченное среднее профессиональное;IT;sentence3.1; - ;13A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id2;Мужской;20;Неоконченное высшее;IT;sentence3.1; - ;13A;direct
+2;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id3;Мужской;23;Среднее профессиональное;IT;sentence3.1; - ;13A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id4;Мужской;20;Неоконченное высшее;Химическая промышленность;sentence3.1; - ;13A;direct
+1;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id5;Женский;27;Высшее;Преподавание;sentence3.1; - ;13A;direct
+2;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id6;Мужской;25;Высшее;Инженерное дело;sentence3.1; - ;13A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id7;Женский;20;Неоконченное высшее;Экономика;sentence3.1; - ;13A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id8;Женский;20;Среднее общее;Учеба;sentence3.1; - ;13A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id9;Мужской;20;Неоконченное высшее;Учеба;sentence3.1; - ;13A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id10;Мужской;20;Среднее профессиональное;МЧС;sentence3.1; - ;13A;direct
+1;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id11;Женский;20;Неоконченное высшее;Прочее;sentence3.1; - ;13A;direct
+3;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id12;Мужской;26;Среднее общее;Прочее;sentence3.1; - ;13A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id13;Женский;20;Неоконченное высшее;Медицина;sentence3.1; - ;13A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id14;Женский;20;Неоконченное высшее;Медицина;sentence3.1; - ;13A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id15;Женский;21;Неоконченное высшее;Преподавание;sentence3.1; - ;13A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id16;Женский;21;Неоконченное высшее;Медицина;sentence3.1; - ;13A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id17;Мужской;20;Неоконченное высшее;Прочее;sentence3.1; - ;13A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id18;Женский;20;Неоконченное высшее;Медицина;sentence3.1; - ;13A;direct
+2;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id19;Мужской;23;Среднее профессиональное;Искусство;sentence3.1; - ;13A;direct
+1;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id20;Мужской;24;Высшее;Химическая промышленность;sentence3.1; - ;13A;direct
+1;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id21;Женский;24;Высшее;Медицина;sentence3.1; - ;13A;direct
+4;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id22;Мужской;22;Среднее профессиональное;Преподавание;sentence3.1; - ;13A;direct
+4;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id23;Мужской;30;Высшее;Маркетинг;sentence3.1; - ;13A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id24;Женский;29;Высшее;IT;sentence3.1; - ;13A;direct
+3;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id25;Мужской;30;Высшее;IT;sentence3.1; - ;13A;direct
+2;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id1;Мужской;20;Неоконченное среднее профессиональное;IT;sentence4.1; - ;15A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id2;Мужской;20;Неоконченное высшее;IT;sentence4.1; - ;15A;indirect
+1;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id3;Мужской;23;Среднее профессиональное;IT;sentence4.1; - ;15A;indirect
+3;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id4;Мужской;20;Неоконченное высшее;Химическая промышленность;sentence4.1; - ;15A;indirect
+3;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id5;Женский;27;Высшее;Преподавание;sentence4.1; - ;15A;indirect
+1;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id6;Мужской;25;Высшее;Инженерное дело;sentence4.1; - ;15A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id7;Женский;20;Неоконченное высшее;Экономика;sentence4.1; - ;15A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id8;Женский;20;Среднее общее;Учеба;sentence4.1; - ;15A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id9;Мужской;20;Неоконченное высшее;Учеба;sentence4.1; - ;15A;indirect
+4;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id10;Мужской;20;Среднее профессиональное;МЧС;sentence4.1; - ;15A;indirect
+1;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id11;Женский;20;Неоконченное высшее;Прочее;sentence4.1; - ;15A;indirect
+1;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id12;Мужской;26;Среднее общее;Прочее;sentence4.1; - ;15A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id13;Женский;20;Неоконченное высшее;Медицина;sentence4.1; - ;15A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id14;Женский;20;Неоконченное высшее;Медицина;sentence4.1; - ;15A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id15;Женский;21;Неоконченное высшее;Преподавание;sentence4.1; - ;15A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id16;Женский;21;Неоконченное высшее;Медицина;sentence4.1; - ;15A;indirect
+2;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id17;Мужской;20;Неоконченное высшее;Прочее;sentence4.1; - ;15A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id18;Женский;20;Неоконченное высшее;Медицина;sentence4.1; - ;15A;indirect
+2;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id19;Мужской;23;Среднее профессиональное;Искусство;sentence4.1; - ;15A;indirect
+4;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id20;Мужской;24;Высшее;Химическая промышленность;sentence4.1; - ;15A;indirect
+1;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id21;Женский;24;Высшее;Медицина;sentence4.1; - ;15A;indirect
+4;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id22;Мужской;22;Среднее профессиональное;Преподавание;sentence4.1; - ;15A;indirect
+2;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id23;Мужской;30;Высшее;Маркетинг;sentence4.1; - ;15A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id24;Женский;29;Высшее;IT;sentence4.1; - ;15A;indirect
+3;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id25;Мужской;30;Высшее;IT;sentence4.1; - ;15A;indirect
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id1;Мужской;20;Неоконченное среднее профессиональное;IT;sentence6.1; - ;9A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id2;Мужской;20;Неоконченное высшее;IT;sentence6.1; - ;9A;direct
+3;стимул;excl;single;X аргумент -Y аргумент;args;coord;id3;Мужской;23;Среднее профессиональное;IT;sentence6.1; - ;9A;direct
+3;стимул;excl;single;X аргумент -Y аргумент;args;coord;id4;Мужской;20;Неоконченное высшее;Химическая промышленность;sentence6.1; - ;9A;direct
+4;стимул;excl;single;X аргумент -Y аргумент;args;coord;id5;Женский;27;Высшее;Преподавание;sentence6.1; - ;9A;direct
+2;стимул;excl;single;X аргумент -Y аргумент;args;coord;id6;Мужской;25;Высшее;Инженерное дело;sentence6.1; - ;9A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id7;Женский;20;Неоконченное высшее;Экономика;sentence6.1; - ;9A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id8;Женский;20;Среднее общее;Учеба;sentence6.1; - ;9A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id9;Мужской;20;Неоконченное высшее;Учеба;sentence6.1; - ;9A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id10;Мужской;20;Среднее профессиональное;МЧС;sentence6.1; - ;9A;direct
+1;стимул;excl;single;X аргумент -Y аргумент;args;coord;id11;Женский;20;Неоконченное высшее;Прочее;sentence6.1; - ;9A;direct
+3;стимул;excl;single;X аргумент -Y аргумент;args;coord;id12;Мужской;26;Среднее общее;Прочее;sentence6.1; - ;9A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id13;Женский;20;Неоконченное высшее;Медицина;sentence6.1; - ;9A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id14;Женский;20;Неоконченное высшее;Медицина;sentence6.1; - ;9A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id15;Женский;21;Неоконченное высшее;Преподавание;sentence6.1; - ;9A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id16;Женский;21;Неоконченное высшее;Медицина;sentence6.1; - ;9A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id17;Мужской;20;Неоконченное высшее;Прочее;sentence6.1; - ;9A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id18;Женский;20;Неоконченное высшее;Медицина;sentence6.1; - ;9A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id19;Мужской;23;Среднее профессиональное;Искусство;sentence6.1; - ;9A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id20;Мужской;24;Высшее;Химическая промышленность;sentence6.1; - ;9A;direct
+2;стимул;excl;single;X аргумент -Y аргумент;args;coord;id21;Женский;24;Высшее;Медицина;sentence6.1; - ;9A;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id22;Мужской;22;Среднее профессиональное;Преподавание;sentence6.1; - ;9A;direct
+2;стимул;excl;single;X аргумент -Y аргумент;args;coord;id23;Мужской;30;Высшее;Маркетинг;sentence6.1; - ;9A;direct
+4;стимул;excl;single;X аргумент -Y аргумент;args;coord;id24;Женский;29;Высшее;IT;sentence6.1; - ;9A;direct
+3;стимул;excl;single;X аргумент -Y аргумент;args;coord;id25;Мужской;30;Высшее;IT;sentence6.1; - ;9A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id1;Мужской;20;Неоконченное среднее профессиональное;IT;sentence9.1; - ;31A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id2;Мужской;20;Неоконченное высшее;IT;sentence9.1; - ;31A;direct
+1;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id3;Мужской;23;Среднее профессиональное;IT;sentence9.1; - ;31A;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id4;Мужской;20;Неоконченное высшее;Химическая промышленность;sentence9.1; - ;31A;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id5;Женский;27;Высшее;Преподавание;sentence9.1; - ;31A;direct
+3;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id6;Мужской;25;Высшее;Инженерное дело;sentence9.1; - ;31A;direct
+4;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id7;Женский;20;Неоконченное высшее;Экономика;sentence9.1; - ;31A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id8;Женский;20;Среднее общее;Учеба;sentence9.1; - ;31A;direct
+1;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id9;Мужской;20;Неоконченное высшее;Учеба;sentence9.1; - ;31A;direct
+3;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id10;Мужской;20;Среднее профессиональное;МЧС;sentence9.1; - ;31A;direct
+1;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id11;Женский;20;Неоконченное высшее;Прочее;sentence9.1; - ;31A;direct
+3;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id12;Мужской;26;Среднее общее;Прочее;sentence9.1; - ;31A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id13;Женский;20;Неоконченное высшее;Медицина;sentence9.1; - ;31A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id14;Женский;20;Неоконченное высшее;Медицина;sentence9.1; - ;31A;direct
+4;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id15;Женский;21;Неоконченное высшее;Преподавание;sentence9.1; - ;31A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id16;Женский;21;Неоконченное высшее;Медицина;sentence9.1; - ;31A;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id17;Мужской;20;Неоконченное высшее;Прочее;sentence9.1; - ;31A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id18;Женский;20;Неоконченное высшее;Медицина;sentence9.1; - ;31A;direct
+3;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id19;Мужской;23;Среднее профессиональное;Искусство;sentence9.1; - ;31A;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id20;Мужской;24;Высшее;Химическая промышленность;sentence9.1; - ;31A;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id21;Женский;24;Высшее;Медицина;sentence9.1; - ;31A;direct
+1;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id22;Мужской;22;Среднее профессиональное;Преподавание;sentence9.1; - ;31A;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id23;Мужской;30;Высшее;Маркетинг;sentence9.1; - ;31A;direct
+4;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id24;Женский;29;Высшее;IT;sentence9.1; - ;31A;direct
+3;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id25;Мужской;30;Высшее;IT;sentence9.1; - ;31A;direct
+3;стимул;excl;single;Y аргумент - X аргумент;args;coord;id1;Мужской;20;Неоконченное среднее профессиональное;IT;sentence10.1; - ;11A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id2;Мужской;20;Неоконченное высшее;IT;sentence10.1; - ;11A;indirect
+3;стимул;excl;single;Y аргумент - X аргумент;args;coord;id3;Мужской;23;Среднее профессиональное;IT;sentence10.1; - ;11A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id4;Мужской;20;Неоконченное высшее;Химическая промышленность;sentence10.1; - ;11A;indirect
+1;стимул;excl;single;Y аргумент - X аргумент;args;coord;id5;Женский;27;Высшее;Преподавание;sentence10.1; - ;11A;indirect
+3;стимул;excl;single;Y аргумент - X аргумент;args;coord;id6;Мужской;25;Высшее;Инженерное дело;sentence10.1; - ;11A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id7;Женский;20;Неоконченное высшее;Экономика;sentence10.1; - ;11A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id8;Женский;20;Среднее общее;Учеба;sentence10.1; - ;11A;indirect
+1;стимул;excl;single;Y аргумент - X аргумент;args;coord;id9;Мужской;20;Неоконченное высшее;Учеба;sentence10.1; - ;11A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id10;Мужской;20;Среднее профессиональное;МЧС;sentence10.1; - ;11A;indirect
+1;стимул;excl;single;Y аргумент - X аргумент;args;coord;id11;Женский;20;Неоконченное высшее;Прочее;sentence10.1; - ;11A;indirect
+3;стимул;excl;single;Y аргумент - X аргумент;args;coord;id12;Мужской;26;Среднее общее;Прочее;sentence10.1; - ;11A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id13;Женский;20;Неоконченное высшее;Медицина;sentence10.1; - ;11A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id14;Женский;20;Неоконченное высшее;Медицина;sentence10.1; - ;11A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id15;Женский;21;Неоконченное высшее;Преподавание;sentence10.1; - ;11A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id16;Женский;21;Неоконченное высшее;Медицина;sentence10.1; - ;11A;indirect
+2;стимул;excl;single;Y аргумент - X аргумент;args;coord;id17;Мужской;20;Неоконченное высшее;Прочее;sentence10.1; - ;11A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id18;Женский;20;Неоконченное высшее;Медицина;sentence10.1; - ;11A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id19;Мужской;23;Среднее профессиональное;Искусство;sentence10.1; - ;11A;indirect
+2;стимул;excl;single;Y аргумент - X аргумент;args;coord;id20;Мужской;24;Высшее;Химическая промышленность;sentence10.1; - ;11A;indirect
+2;стимул;excl;single;Y аргумент - X аргумент;args;coord;id21;Женский;24;Высшее;Медицина;sentence10.1; - ;11A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id22;Мужской;22;Среднее профессиональное;Преподавание;sentence10.1; - ;11A;indirect
+2;стимул;excl;single;Y аргумент - X аргумент;args;coord;id23;Мужской;30;Высшее;Маркетинг;sentence10.1; - ;11A;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id24;Женский;29;Высшее;IT;sentence10.1; - ;11A;indirect
+2;стимул;excl;single;Y аргумент - X аргумент;args;coord;id25;Мужской;30;Высшее;IT;sentence10.1; - ;11A;indirect
+1;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id1;Мужской;20;Неоконченное среднее профессиональное;IT;sentence11.1; - ;27A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id2;Мужской;20;Неоконченное высшее;IT;sentence11.1; - ;27A;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id3;Мужской;23;Среднее профессиональное;IT;sentence11.1; - ;27A;direct
+4;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id4;Мужской;20;Неоконченное высшее;Химическая промышленность;sentence11.1; - ;27A;direct
+3;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id5;Женский;27;Высшее;Преподавание;sentence11.1; - ;27A;direct
+3;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id6;Мужской;25;Высшее;Инженерное дело;sentence11.1; - ;27A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id7;Женский;20;Неоконченное высшее;Экономика;sentence11.1; - ;27A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id8;Женский;20;Среднее общее;Учеба;sentence11.1; - ;27A;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id9;Мужской;20;Неоконченное высшее;Учеба;sentence11.1; - ;27A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id10;Мужской;20;Среднее профессиональное;МЧС;sentence11.1; - ;27A;direct
+1;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id11;Женский;20;Неоконченное высшее;Прочее;sentence11.1; - ;27A;direct
+4;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id12;Мужской;26;Среднее общее;Прочее;sentence11.1; - ;27A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id13;Женский;20;Неоконченное высшее;Медицина;sentence11.1; - ;27A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id14;Женский;20;Неоконченное высшее;Медицина;sentence11.1; - ;27A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id15;Женский;21;Неоконченное высшее;Преподавание;sentence11.1; - ;27A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id16;Женский;21;Неоконченное высшее;Медицина;sentence11.1; - ;27A;direct
+3;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id17;Мужской;20;Неоконченное высшее;Прочее;sentence11.1; - ;27A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id18;Женский;20;Неоконченное высшее;Медицина;sentence11.1; - ;27A;direct
+4;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id19;Мужской;23;Среднее профессиональное;Искусство;sentence11.1; - ;27A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id20;Мужской;24;Высшее;Химическая промышленность;sentence11.1; - ;27A;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id21;Женский;24;Высшее;Медицина;sentence11.1; - ;27A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id22;Мужской;22;Среднее профессиональное;Преподавание;sentence11.1; - ;27A;direct
+1;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id23;Мужской;30;Высшее;Маркетинг;sentence11.1; - ;27A;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id24;Женский;29;Высшее;IT;sentence11.1; - ;27A;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id25;Мужской;30;Высшее;IT;sentence11.1; - ;27A;direct
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id1;Мужской;20;Неоконченное среднее профессиональное;IT;sentence13.1; - ;29A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id2;Мужской;20;Неоконченное высшее;IT;sentence13.1; - ;29A;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id3;Мужской;23;Среднее профессиональное;IT;sentence13.1; - ;29A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id4;Мужской;20;Неоконченное высшее;Химическая промышленность;sentence13.1; - ;29A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id5;Женский;27;Высшее;Преподавание;sentence13.1; - ;29A;indirect
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id6;Мужской;25;Высшее;Инженерное дело;sentence13.1; - ;29A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id7;Женский;20;Неоконченное высшее;Экономика;sentence13.1; - ;29A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id8;Женский;20;Среднее общее;Учеба;sentence13.1; - ;29A;indirect
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id9;Мужской;20;Неоконченное высшее;Учеба;sentence13.1; - ;29A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id10;Мужской;20;Среднее профессиональное;МЧС;sentence13.1; - ;29A;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id11;Женский;20;Неоконченное высшее;Прочее;sentence13.1; - ;29A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id12;Мужской;26;Среднее общее;Прочее;sentence13.1; - ;29A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id13;Женский;20;Неоконченное высшее;Медицина;sentence13.1; - ;29A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id14;Женский;20;Неоконченное высшее;Медицина;sentence13.1; - ;29A;indirect
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id15;Женский;21;Неоконченное высшее;Преподавание;sentence13.1; - ;29A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id16;Женский;21;Неоконченное высшее;Медицина;sentence13.1; - ;29A;indirect
+2;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id17;Мужской;20;Неоконченное высшее;Прочее;sentence13.1; - ;29A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id18;Женский;20;Неоконченное высшее;Медицина;sentence13.1; - ;29A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id19;Мужской;23;Среднее профессиональное;Искусство;sentence13.1; - ;29A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id20;Мужской;24;Высшее;Химическая промышленность;sentence13.1; - ;29A;indirect
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id21;Женский;24;Высшее;Медицина;sentence13.1; - ;29A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id22;Мужской;22;Среднее профессиональное;Преподавание;sentence13.1; - ;29A;indirect
+2;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id23;Мужской;30;Высшее;Маркетинг;sentence13.1; - ;29A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id24;Женский;29;Высшее;IT;sentence13.1; - ;29A;indirect
+3;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id25;Мужской;30;Высшее;IT;sentence13.1; - ;29A;indirect
+2;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id1;Мужской;20;Неоконченное среднее профессиональное;IT;sentence15.1; - ;25A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id2;Мужской;20;Неоконченное высшее;IT;sentence15.1; - ;25A;indirect
+2;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id3;Мужской;23;Среднее профессиональное;IT;sentence15.1; - ;25A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id4;Мужской;20;Неоконченное высшее;Химическая промышленность;sentence15.1; - ;25A;indirect
+3;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id5;Женский;27;Высшее;Преподавание;sentence15.1; - ;25A;indirect
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id6;Мужской;25;Высшее;Инженерное дело;sentence15.1; - ;25A;indirect
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id7;Женский;20;Неоконченное высшее;Экономика;sentence15.1; - ;25A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id8;Женский;20;Среднее общее;Учеба;sentence15.1; - ;25A;indirect
+3;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id9;Мужской;20;Неоконченное высшее;Учеба;sentence15.1; - ;25A;indirect
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id10;Мужской;20;Среднее профессиональное;МЧС;sentence15.1; - ;25A;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id11;Женский;20;Неоконченное высшее;Прочее;sentence15.1; - ;25A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id12;Мужской;26;Среднее общее;Прочее;sentence15.1; - ;25A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id13;Женский;20;Неоконченное высшее;Медицина;sentence15.1; - ;25A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id14;Женский;20;Неоконченное высшее;Медицина;sentence15.1; - ;25A;indirect
+3;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id15;Женский;21;Неоконченное высшее;Преподавание;sentence15.1; - ;25A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id16;Женский;21;Неоконченное высшее;Медицина;sentence15.1; - ;25A;indirect
+2;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id17;Мужской;20;Неоконченное высшее;Прочее;sentence15.1; - ;25A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id18;Женский;20;Неоконченное высшее;Медицина;sentence15.1; - ;25A;indirect
+3;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id19;Мужской;23;Среднее профессиональное;Искусство;sentence15.1; - ;25A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id20;Мужской;24;Высшее;Химическая промышленность;sentence15.1; - ;25A;indirect
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id21;Женский;24;Высшее;Медицина;sentence15.1; - ;25A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id22;Мужской;22;Среднее профессиональное;Преподавание;sentence15.1; - ;25A;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id23;Мужской;30;Высшее;Маркетинг;sentence15.1; - ;25A;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id24;Женский;29;Высшее;IT;sentence15.1; - ;25A;indirect
+2;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id25;Мужской;30;Высшее;IT;sentence15.1; - ;25A;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id51;Женский;21;Неоконченное высшее;IT;sentence18.1; - ;30B;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id52;Женский;20;Неоконченное высшее;IT;sentence18.1; - ;30B;indirect
+2;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id53;Мужской;20;Неоконченное высшее;IT;sentence18.1; - ;30B;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id54;Женский;20;Неоконченное высшее;Психология;sentence18.1; - ;30B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id55;Мужской;23;Неоконченное высшее;IT;sentence18.1; - ;30B;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id56;Мужской;20;Среднее общее;Учеба;sentence18.1; - ;30B;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id57;Мужской;20;Неоконченное высшее;Сфера обслуживания;sentence18.1; - ;30B;indirect
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id58;Мужской;20;Неоконченное среднее профессиональное;Искусство;sentence18.1; - ;30B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id59;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence18.1; - ;30B;indirect
+2;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id60;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence18.1; - ;30B;indirect
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id61;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence18.1; - ;30B;indirect
+2;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id62;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence18.1; - ;30B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id63;Женский;23;Среднее профессиональное;Бухгалтерский учет;sentence18.1; - ;30B;indirect
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id64;Женский;30;Высшее;Экономика;sentence18.1; - ;30B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id65;Женский;24;Высшее;Маркетинг;sentence18.1; - ;30B;indirect
+2;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id66;Женский;22;Высшее;Менеджмент;sentence18.1; - ;30B;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id67;Мужской;24;Высшее;Строительство;sentence18.1; - ;30B;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id68;Мужской;28;Высшее;Экология;sentence18.1; - ;30B;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id69;Женский;26;Высшее;Экономика;sentence18.1; - ;30B;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id70;Женский;24;Среднее профессиональное;Сфера обслуживания;sentence18.1; - ;30B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id71;Мужской;21;Среднее профессиональное;Искусство;sentence18.1; - ;30B;indirect
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id72;Женский;23;Неоконченное среднее профессиональное;Искусство;sentence18.1; - ;30B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id73;Женский;30;Высшее;IT;sentence18.1; - ;30B;indirect
+3;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id74;Мужской;21;Среднее общее;Учеба;sentence18.1; - ;30B;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;non-coord;id75;Мужской;20;Неоконченное высшее;Экономика;sentence18.1; - ;30B;indirect
+2;стимул;excl;single;Y аргумент - X аргумент;args;coord;id51;Женский;21;Неоконченное высшее;IT;sentence20.1; - ;12B;indirect
+2;стимул;excl;single;Y аргумент - X аргумент;args;coord;id52;Женский;20;Неоконченное высшее;IT;sentence20.1; - ;12B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id53;Мужской;20;Неоконченное высшее;IT;sentence20.1; - ;12B;indirect
+1;стимул;excl;single;Y аргумент - X аргумент;args;coord;id54;Женский;20;Неоконченное высшее;Психология;sentence20.1; - ;12B;indirect
+4;стимул;excl;single;Y аргумент - X аргумент;args;coord;id55;Мужской;23;Неоконченное высшее;IT;sentence20.1; - ;12B;indirect
+4;стимул;excl;single;Y аргумент - X аргумент;args;coord;id56;Мужской;20;Среднее общее;Учеба;sentence20.1; - ;12B;indirect
+1;стимул;excl;single;Y аргумент - X аргумент;args;coord;id57;Мужской;20;Неоконченное высшее;Сфера обслуживания;sentence20.1; - ;12B;indirect
+4;стимул;excl;single;Y аргумент - X аргумент;args;coord;id58;Мужской;20;Неоконченное среднее профессиональное;Искусство;sentence20.1; - ;12B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id59;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence20.1; - ;12B;indirect
+4;стимул;excl;single;Y аргумент - X аргумент;args;coord;id60;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence20.1; - ;12B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id61;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence20.1; - ;12B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id62;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence20.1; - ;12B;indirect
+4;стимул;excl;single;Y аргумент - X аргумент;args;coord;id63;Женский;23;Среднее профессиональное;Бухгалтерский учет;sentence20.1; - ;12B;indirect
+2;стимул;excl;single;Y аргумент - X аргумент;args;coord;id64;Женский;30;Высшее;Экономика;sentence20.1; - ;12B;indirect
+3;стимул;excl;single;Y аргумент - X аргумент;args;coord;id65;Женский;24;Высшее;Маркетинг;sentence20.1; - ;12B;indirect
+2;стимул;excl;single;Y аргумент - X аргумент;args;coord;id66;Женский;22;Высшее;Менеджмент;sentence20.1; - ;12B;indirect
+4;стимул;excl;single;Y аргумент - X аргумент;args;coord;id67;Мужской;24;Высшее;Строительство;sentence20.1; - ;12B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id68;Мужской;28;Высшее;Экология;sentence20.1; - ;12B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id69;Женский;26;Высшее;Экономика;sentence20.1; - ;12B;indirect
+3;стимул;excl;single;Y аргумент - X аргумент;args;coord;id70;Женский;24;Среднее профессиональное;Сфера обслуживания;sentence20.1; - ;12B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id71;Мужской;21;Среднее профессиональное;Искусство;sentence20.1; - ;12B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id72;Женский;23;Неоконченное среднее профессиональное;Искусство;sentence20.1; - ;12B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id73;Женский;30;Высшее;IT;sentence20.1; - ;12B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;coord;id74;Мужской;21;Среднее общее;Учеба;sentence20.1; - ;12B;indirect
+1;стимул;excl;single;Y аргумент - X аргумент;args;coord;id75;Мужской;20;Неоконченное высшее;Экономика;sentence20.1; - ;12B;indirect
+2;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id51;Женский;21;Неоконченное высшее;IT;sentence21.1; - ;26B;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id52;Женский;20;Неоконченное высшее;IT;sentence21.1; - ;26B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id53;Мужской;20;Неоконченное высшее;IT;sentence21.1; - ;26B;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id54;Женский;20;Неоконченное высшее;Психология;sentence21.1; - ;26B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id55;Мужской;23;Неоконченное высшее;IT;sentence21.1; - ;26B;indirect
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id56;Мужской;20;Среднее общее;Учеба;sentence21.1; - ;26B;indirect
+2;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id57;Мужской;20;Неоконченное высшее;Сфера обслуживания;sentence21.1; - ;26B;indirect
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id58;Мужской;20;Неоконченное среднее профессиональное;Искусство;sentence21.1; - ;26B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id59;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence21.1; - ;26B;indirect
+2;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id60;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence21.1; - ;26B;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id61;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence21.1; - ;26B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id62;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence21.1; - ;26B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id63;Женский;23;Среднее профессиональное;Бухгалтерский учет;sentence21.1; - ;26B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id64;Женский;30;Высшее;Экономика;sentence21.1; - ;26B;indirect
+3;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id65;Женский;24;Высшее;Маркетинг;sentence21.1; - ;26B;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id66;Женский;22;Высшее;Менеджмент;sentence21.1; - ;26B;indirect
+4;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id67;Мужской;24;Высшее;Строительство;sentence21.1; - ;26B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id68;Мужской;28;Высшее;Экология;sentence21.1; - ;26B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id69;Женский;26;Высшее;Экономика;sentence21.1; - ;26B;indirect
+3;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id70;Женский;24;Среднее профессиональное;Сфера обслуживания;sentence21.1; - ;26B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id71;Мужской;21;Среднее профессиональное;Искусство;sentence21.1; - ;26B;indirect
+3;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id72;Женский;23;Неоконченное среднее профессиональное;Искусство;sentence21.1; - ;26B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id73;Женский;30;Высшее;IT;sentence21.1; - ;26B;indirect
+5;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id74;Мужской;21;Среднее общее;Учеба;sentence21.1; - ;26B;indirect
+1;стимул;excl;single;адъюнкт-аргумент;adjarg;coord;id75;Мужской;20;Неоконченное высшее;Экономика;sentence21.1; - ;26B;indirect
+4;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id51;Женский;21;Неоконченное высшее;IT;sentence22.1; - ;14B;direct
+2;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id52;Женский;20;Неоконченное высшее;IT;sentence22.1; - ;14B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id53;Мужской;20;Неоконченное высшее;IT;sentence22.1; - ;14B;direct
+1;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id54;Женский;20;Неоконченное высшее;Психология;sentence22.1; - ;14B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id55;Мужской;23;Неоконченное высшее;IT;sentence22.1; - ;14B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id56;Мужской;20;Среднее общее;Учеба;sentence22.1; - ;14B;direct
+3;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id57;Мужской;20;Неоконченное высшее;Сфера обслуживания;sentence22.1; - ;14B;direct
+4;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id58;Мужской;20;Неоконченное среднее профессиональное;Искусство;sentence22.1; - ;14B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id59;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence22.1; - ;14B;direct
+4;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id60;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence22.1; - ;14B;direct
+1;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id61;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence22.1; - ;14B;direct
+4;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id62;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence22.1; - ;14B;direct
+4;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id63;Женский;23;Среднее профессиональное;Бухгалтерский учет;sentence22.1; - ;14B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id64;Женский;30;Высшее;Экономика;sentence22.1; - ;14B;direct
+3;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id65;Женский;24;Высшее;Маркетинг;sentence22.1; - ;14B;direct
+1;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id66;Женский;22;Высшее;Менеджмент;sentence22.1; - ;14B;direct
+4;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id67;Мужской;24;Высшее;Строительство;sentence22.1; - ;14B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id68;Мужской;28;Высшее;Экология;sentence22.1; - ;14B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id69;Женский;26;Высшее;Экономика;sentence22.1; - ;14B;direct
+3;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id70;Женский;24;Среднее профессиональное;Сфера обслуживания;sentence22.1; - ;14B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id71;Мужской;21;Среднее профессиональное;Искусство;sentence22.1; - ;14B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id72;Женский;23;Неоконченное среднее профессиональное;Искусство;sentence22.1; - ;14B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id73;Женский;30;Высшее;IT;sentence22.1; - ;14B;direct
+4;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id74;Мужской;21;Среднее общее;Учеба;sentence22.1; - ;14B;direct
+1;стимул;excl;single;X аргумент -Y аргумент;args;non-coord;id75;Мужской;20;Неоконченное высшее;Экономика;sentence22.1; - ;14B;direct
+1;стимул;excl;single;X аргумент -Y аргумент;args;coord;id51;Женский;21;Неоконченное высшее;IT;sentence24.1; - ;10B;direct
+2;стимул;excl;single;X аргумент -Y аргумент;args;coord;id52;Женский;20;Неоконченное высшее;IT;sentence24.1; - ;10B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id53;Мужской;20;Неоконченное высшее;IT;sentence24.1; - ;10B;direct
+1;стимул;excl;single;X аргумент -Y аргумент;args;coord;id54;Женский;20;Неоконченное высшее;Психология;sentence24.1; - ;10B;direct
+3;стимул;excl;single;X аргумент -Y аргумент;args;coord;id55;Мужской;23;Неоконченное высшее;IT;sentence24.1; - ;10B;direct
+2;стимул;excl;single;X аргумент -Y аргумент;args;coord;id56;Мужской;20;Среднее общее;Учеба;sentence24.1; - ;10B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id57;Мужской;20;Неоконченное высшее;Сфера обслуживания;sentence24.1; - ;10B;direct
+4;стимул;excl;single;X аргумент -Y аргумент;args;coord;id58;Мужской;20;Неоконченное среднее профессиональное;Искусство;sentence24.1; - ;10B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id59;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence24.1; - ;10B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id60;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence24.1; - ;10B;direct
+3;стимул;excl;single;X аргумент -Y аргумент;args;coord;id61;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence24.1; - ;10B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id62;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence24.1; - ;10B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id63;Женский;23;Среднее профессиональное;Бухгалтерский учет;sentence24.1; - ;10B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id64;Женский;30;Высшее;Экономика;sentence24.1; - ;10B;direct
+1;стимул;excl;single;X аргумент -Y аргумент;args;coord;id65;Женский;24;Высшее;Маркетинг;sentence24.1; - ;10B;direct
+4;стимул;excl;single;X аргумент -Y аргумент;args;coord;id66;Женский;22;Высшее;Менеджмент;sentence24.1; - ;10B;direct
+4;стимул;excl;single;X аргумент -Y аргумент;args;coord;id67;Мужской;24;Высшее;Строительство;sentence24.1; - ;10B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id68;Мужской;28;Высшее;Экология;sentence24.1; - ;10B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id69;Женский;26;Высшее;Экономика;sentence24.1; - ;10B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id70;Женский;24;Среднее профессиональное;Сфера обслуживания;sentence24.1; - ;10B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id71;Мужской;21;Среднее профессиональное;Искусство;sentence24.1; - ;10B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id72;Женский;23;Неоконченное среднее профессиональное;Искусство;sentence24.1; - ;10B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id73;Женский;30;Высшее;IT;sentence24.1; - ;10B;direct
+5;стимул;excl;single;X аргумент -Y аргумент;args;coord;id74;Мужской;21;Среднее общее;Учеба;sentence24.1; - ;10B;direct
+1;стимул;excl;single;X аргумент -Y аргумент;args;coord;id75;Мужской;20;Неоконченное высшее;Экономика;sentence24.1; - ;10B;direct
+2;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id51;Женский;21;Неоконченное высшее;IT;sentence27.1; - ;16B;indirect
+2;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id52;Женский;20;Неоконченное высшее;IT;sentence27.1; - ;16B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id53;Мужской;20;Неоконченное высшее;IT;sentence27.1; - ;16B;indirect
+1;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id54;Женский;20;Неоконченное высшее;Психология;sentence27.1; - ;16B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id55;Мужской;23;Неоконченное высшее;IT;sentence27.1; - ;16B;indirect
+2;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id56;Мужской;20;Среднее общее;Учеба;sentence27.1; - ;16B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id57;Мужской;20;Неоконченное высшее;Сфера обслуживания;sentence27.1; - ;16B;indirect
+4;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id58;Мужской;20;Неоконченное среднее профессиональное;Искусство;sentence27.1; - ;16B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id59;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence27.1; - ;16B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id60;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence27.1; - ;16B;indirect
+2;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id61;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence27.1; - ;16B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id62;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence27.1; - ;16B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id63;Женский;23;Среднее профессиональное;Бухгалтерский учет;sentence27.1; - ;16B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id64;Женский;30;Высшее;Экономика;sentence27.1; - ;16B;indirect
+1;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id65;Женский;24;Высшее;Маркетинг;sentence27.1; - ;16B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id66;Женский;22;Высшее;Менеджмент;sentence27.1; - ;16B;indirect
+4;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id67;Мужской;24;Высшее;Строительство;sentence27.1; - ;16B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id68;Мужской;28;Высшее;Экология;sentence27.1; - ;16B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id69;Женский;26;Высшее;Экономика;sentence27.1; - ;16B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id70;Женский;24;Среднее профессиональное;Сфера обслуживания;sentence27.1; - ;16B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id71;Мужской;21;Среднее профессиональное;Искусство;sentence27.1; - ;16B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id72;Женский;23;Неоконченное среднее профессиональное;Искусство;sentence27.1; - ;16B;indirect
+5;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id73;Женский;30;Высшее;IT;sentence27.1; - ;16B;indirect
+3;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id74;Мужской;21;Среднее общее;Учеба;sentence27.1; - ;16B;indirect
+1;стимул;excl;single;Y аргумент - X аргумент;args;non-coord;id75;Мужской;20;Неоконченное высшее;Экономика;sentence27.1; - ;16B;indirect
+4;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id51;Женский;21;Неоконченное высшее;IT;sentence28.1; - ;28B;direct
+4;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id52;Женский;20;Неоконченное высшее;IT;sentence28.1; - ;28B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id53;Мужской;20;Неоконченное высшее;IT;sentence28.1; - ;28B;direct
+1;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id54;Женский;20;Неоконченное высшее;Психология;sentence28.1; - ;28B;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id55;Мужской;23;Неоконченное высшее;IT;sentence28.1; - ;28B;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id56;Мужской;20;Среднее общее;Учеба;sentence28.1; - ;28B;direct
+3;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id57;Мужской;20;Неоконченное высшее;Сфера обслуживания;sentence28.1; - ;28B;direct
+4;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id58;Мужской;20;Неоконченное среднее профессиональное;Искусство;sentence28.1; - ;28B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id59;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence28.1; - ;28B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id60;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence28.1; - ;28B;direct
+1;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id61;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence28.1; - ;28B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id62;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence28.1; - ;28B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id63;Женский;23;Среднее профессиональное;Бухгалтерский учет;sentence28.1; - ;28B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id64;Женский;30;Высшее;Экономика;sentence28.1; - ;28B;direct
+1;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id65;Женский;24;Высшее;Маркетинг;sentence28.1; - ;28B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id66;Женский;22;Высшее;Менеджмент;sentence28.1; - ;28B;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id67;Мужской;24;Высшее;Строительство;sentence28.1; - ;28B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id68;Мужской;28;Высшее;Экология;sentence28.1; - ;28B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id69;Женский;26;Высшее;Экономика;sentence28.1; - ;28B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id70;Женский;24;Среднее профессиональное;Сфера обслуживания;sentence28.1; - ;28B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id71;Мужской;21;Среднее профессиональное;Искусство;sentence28.1; - ;28B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id72;Женский;23;Неоконченное среднее профессиональное;Искусство;sentence28.1; - ;28B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id73;Женский;30;Высшее;IT;sentence28.1; - ;28B;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id74;Мужской;21;Среднее общее;Учеба;sentence28.1; - ;28B;direct
+1;стимул;excl;single;аргумент-адъюнкт;adjarg;coord;id75;Мужской;20;Неоконченное высшее;Экономика;sentence28.1; - ;28B;direct
+4;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id51;Женский;21;Неоконченное высшее;IT;sentence30.1; - ;32B;direct
+4;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id52;Женский;20;Неоконченное высшее;IT;sentence30.1; - ;32B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id53;Мужской;20;Неоконченное высшее;IT;sentence30.1; - ;32B;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id54;Женский;20;Неоконченное высшее;Психология;sentence30.1; - ;32B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id55;Мужской;23;Неоконченное высшее;IT;sentence30.1; - ;32B;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id56;Мужской;20;Среднее общее;Учеба;sentence30.1; - ;32B;direct
+1;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id57;Мужской;20;Неоконченное высшее;Сфера обслуживания;sentence30.1; - ;32B;direct
+4;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id58;Мужской;20;Неоконченное среднее профессиональное;Искусство;sentence30.1; - ;32B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id59;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence30.1; - ;32B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id60;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence30.1; - ;32B;direct
+1;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id61;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence30.1; - ;32B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id62;Женский;20;Неоконченное среднее профессиональное;Искусство;sentence30.1; - ;32B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id63;Женский;23;Среднее профессиональное;Бухгалтерский учет;sentence30.1; - ;32B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id64;Женский;30;Высшее;Экономика;sentence30.1; - ;32B;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id65;Женский;24;Высшее;Маркетинг;sentence30.1; - ;32B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id66;Женский;22;Высшее;Менеджмент;sentence30.1; - ;32B;direct
+2;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id67;Мужской;24;Высшее;Строительство;sentence30.1; - ;32B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id68;Мужской;28;Высшее;Экология;sentence30.1; - ;32B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id69;Женский;26;Высшее;Экономика;sentence30.1; - ;32B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id70;Женский;24;Среднее профессиональное;Сфера обслуживания;sentence30.1; - ;32B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id71;Мужской;21;Среднее профессиональное;Искусство;sentence30.1; - ;32B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id72;Женский;23;Неоконченное среднее профессиональное;Искусство;sentence30.1; - ;32B;direct
+5;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id73;Женский;30;Высшее;IT;sentence30.1; - ;32B;direct
+4;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id74;Мужской;21;Среднее общее;Учеба;sentence30.1; - ;32B;direct
+4;стимул;excl;single;аргумент-адъюнкт;adjarg;non-coord;id75;Мужской;20;Неоконченное высшее;Экономика;sentence30.1; - ;32B;direct

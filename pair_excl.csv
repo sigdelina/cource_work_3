@@ -1,0 +1,401 @@
+﻿answers;Филлер/стимул;sent_type;single/pair;порядок;syntacticrole;cordination;id;пол;возраст;уровень образования;сфера;sentence;правильность филлера;номер предложения;order
+2;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id26;Женский;20;Неоконченное высшее;Лингвистика;sentence6.2; - ;9A;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id27;Женский;20;Неоконченное высшее;Преподавание;sentence6.2; - ;9A;direct
+2;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id28;Женский;21;Неоконченное высшее;Государственное и муниципальное управление;sentence6.2; - ;9A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id29;Мужской;20;Неоконченное высшее;Искусство;sentence6.2; - ;9A;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id30;Женский;20;Неоконченное высшее;Экономика;sentence6.2; - ;9A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id31;Мужской;20;Неоконченное высшее;Государственное и муниципальное управление;sentence6.2; - ;9A;direct
+2;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id32;Женский;20;Основное общее;Лингвистика;sentence6.2; - ;9A;direct
+2;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id33;Мужской;25;Высшее;IT;sentence6.2; - ;9A;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id34;Женский;21;Неоконченное высшее;Журналистика;sentence6.2; - ;9A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id35;Женский;23;Среднее профессиональное;Сфера обслуживания;sentence6.2; - ;9A;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id36;Женский;20;Основное общее;Учеба;sentence6.2; - ;9A;direct
+1;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id37;Женский;20;Неоконченное высшее;Филология;sentence6.2; - ;9A;direct
+3;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id38;Мужской;20;Неоконченное высшее;Учеба;sentence6.2; - ;9A;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id39;Мужской;26;Среднее профессиональное;Телевидение;sentence6.2; - ;9A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id40;Мужской;20;Неоконченное среднее профессиональное;IT;sentence6.2; - ;9A;direct
+3;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id41;Мужской;20;Неоконченное высшее;Туризм;sentence6.2; - ;9A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id42;Мужской;22;Высшее;Юриспруденция;sentence6.2; - ;9A;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id43;Мужской;24;Среднее профессиональное;Сфера обслуживания;sentence6.2; - ;9A;direct
+2;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id44;Мужской;29;Высшее;Логистика;sentence6.2; - ;9A;direct
+1;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id45;Мужской;25;Высшее;Инженерное дело;sentence6.2; - ;9A;direct
+1;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id46;Женский;24;Высшее;IT;sentence6.2; - ;9A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id47;Мужской;20;Неоконченное среднее профессиональное;IT;sentence6.2; - ;9A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id48;Женский;23;Среднее профессиональное;Работа;sentence6.2; - ;9A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id49;Женский;27;Среднее профессиональное;Ресторанный бизнес;sentence6.2; - ;9A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id50;Женский;20;Среднее профессиональное;Работа;sentence6.2; - ;9A;direct
+2;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id26;Женский;20;Неоконченное высшее;Лингвистика;sentence9.2; - ;31A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id27;Женский;20;Неоконченное высшее;Преподавание;sentence9.2; - ;31A;direct
+2;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id28;Женский;21;Неоконченное высшее;Государственное и муниципальное управление;sentence9.2; - ;31A;direct
+2;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id29;Мужской;20;Неоконченное высшее;Искусство;sentence9.2; - ;31A;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id30;Женский;20;Неоконченное высшее;Экономика;sentence9.2; - ;31A;direct
+3;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id31;Мужской;20;Неоконченное высшее;Государственное и муниципальное управление;sentence9.2; - ;31A;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id32;Женский;20;Основное общее;Лингвистика;sentence9.2; - ;31A;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id33;Мужской;25;Высшее;IT;sentence9.2; - ;31A;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id34;Женский;21;Неоконченное высшее;Журналистика;sentence9.2; - ;31A;direct
+3;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id35;Женский;23;Среднее профессиональное;Сфера обслуживания;sentence9.2; - ;31A;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id36;Женский;20;Основное общее;Учеба;sentence9.2; - ;31A;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id37;Женский;20;Неоконченное высшее;Филология;sentence9.2; - ;31A;direct
+3;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id38;Мужской;20;Неоконченное высшее;Учеба;sentence9.2; - ;31A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id39;Мужской;26;Среднее профессиональное;Телевидение;sentence9.2; - ;31A;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id40;Мужской;20;Неоконченное среднее профессиональное;IT;sentence9.2; - ;31A;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id41;Мужской;20;Неоконченное высшее;Туризм;sentence9.2; - ;31A;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id42;Мужской;22;Высшее;Юриспруденция;sentence9.2; - ;31A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id43;Мужской;24;Среднее профессиональное;Сфера обслуживания;sentence9.2; - ;31A;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id44;Мужской;29;Высшее;Логистика;sentence9.2; - ;31A;direct
+3;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id45;Мужской;25;Высшее;Инженерное дело;sentence9.2; - ;31A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id46;Женский;24;Высшее;IT;sentence9.2; - ;31A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id47;Мужской;20;Неоконченное среднее профессиональное;IT;sentence9.2; - ;31A;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id48;Женский;23;Среднее профессиональное;Работа;sentence9.2; - ;31A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id49;Женский;27;Среднее профессиональное;Ресторанный бизнес;sentence9.2; - ;31A;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id50;Женский;20;Среднее профессиональное;Работа;sentence9.2; - ;31A;direct
+2;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id26;Женский;20;Неоконченное высшее;Лингвистика;sentence4.2; - ;15A;indirect
+2;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id27;Женский;20;Неоконченное высшее;Преподавание;sentence4.2; - ;15A;indirect
+3;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id28;Женский;21;Неоконченное высшее;Государственное и муниципальное управление;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id29;Мужской;20;Неоконченное высшее;Искусство;sentence4.2; - ;15A;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id30;Женский;20;Неоконченное высшее;Экономика;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id31;Мужской;20;Неоконченное высшее;Государственное и муниципальное управление;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id32;Женский;20;Основное общее;Лингвистика;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id33;Мужской;25;Высшее;IT;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id34;Женский;21;Неоконченное высшее;Журналистика;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id35;Женский;23;Среднее профессиональное;Сфера обслуживания;sentence4.2; - ;15A;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id36;Женский;20;Основное общее;Учеба;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id37;Женский;20;Неоконченное высшее;Филология;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id38;Мужской;20;Неоконченное высшее;Учеба;sentence4.2; - ;15A;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id39;Мужской;26;Среднее профессиональное;Телевидение;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id40;Мужской;20;Неоконченное среднее профессиональное;IT;sentence4.2; - ;15A;indirect
+3;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id41;Мужской;20;Неоконченное высшее;Туризм;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id42;Мужской;22;Высшее;Юриспруденция;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id43;Мужской;24;Среднее профессиональное;Сфера обслуживания;sentence4.2; - ;15A;indirect
+3;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id44;Мужской;29;Высшее;Логистика;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id45;Мужской;25;Высшее;Инженерное дело;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id46;Женский;24;Высшее;IT;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id47;Мужской;20;Неоконченное среднее профессиональное;IT;sentence4.2; - ;15A;indirect
+3;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id48;Женский;23;Среднее профессиональное;Работа;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id49;Женский;27;Среднее профессиональное;Ресторанный бизнес;sentence4.2; - ;15A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id50;Женский;20;Среднее профессиональное;Работа;sentence4.2; - ;15A;indirect
+2;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id26;Женский;20;Неоконченное высшее;Лингвистика;sentence13.2; - ;29A;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id27;Женский;20;Неоконченное высшее;Преподавание;sentence13.2; - ;29A;indirect
+2;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id28;Женский;21;Неоконченное высшее;Государственное и муниципальное управление;sentence13.2; - ;29A;indirect
+3;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id29;Мужской;20;Неоконченное высшее;Искусство;sentence13.2; - ;29A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id30;Женский;20;Неоконченное высшее;Экономика;sentence13.2; - ;29A;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id31;Мужской;20;Неоконченное высшее;Государственное и муниципальное управление;sentence13.2; - ;29A;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id32;Женский;20;Основное общее;Лингвистика;sentence13.2; - ;29A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id33;Мужской;25;Высшее;IT;sentence13.2; - ;29A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id34;Женский;21;Неоконченное высшее;Журналистика;sentence13.2; - ;29A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id35;Женский;23;Среднее профессиональное;Сфера обслуживания;sentence13.2; - ;29A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id36;Женский;20;Основное общее;Учеба;sentence13.2; - ;29A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id37;Женский;20;Неоконченное высшее;Филология;sentence13.2; - ;29A;indirect
+3;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id38;Мужской;20;Неоконченное высшее;Учеба;sentence13.2; - ;29A;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id39;Мужской;26;Среднее профессиональное;Телевидение;sentence13.2; - ;29A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id40;Мужской;20;Неоконченное среднее профессиональное;IT;sentence13.2; - ;29A;indirect
+1;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id41;Мужской;20;Неоконченное высшее;Туризм;sentence13.2; - ;29A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id42;Мужской;22;Высшее;Юриспруденция;sentence13.2; - ;29A;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id43;Мужской;24;Среднее профессиональное;Сфера обслуживания;sentence13.2; - ;29A;indirect
+3;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id44;Мужской;29;Высшее;Логистика;sentence13.2; - ;29A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id45;Мужской;25;Высшее;Инженерное дело;sentence13.2; - ;29A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id46;Женский;24;Высшее;IT;sentence13.2; - ;29A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id47;Мужской;20;Неоконченное среднее профессиональное;IT;sentence13.2; - ;29A;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id48;Женский;23;Среднее профессиональное;Работа;sentence13.2; - ;29A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id49;Женский;27;Среднее профессиональное;Ресторанный бизнес;sentence13.2; - ;29A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id50;Женский;20;Среднее профессиональное;Работа;sentence13.2; - ;29A;indirect
+3;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id26;Женский;20;Неоконченное высшее;Лингвистика;sentence3.2; - ;13A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id27;Женский;20;Неоконченное высшее;Преподавание;sentence3.2; - ;13A;direct
+2;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id28;Женский;21;Неоконченное высшее;Государственное и муниципальное управление;sentence3.2; - ;13A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id29;Мужской;20;Неоконченное высшее;Искусство;sentence3.2; - ;13A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id30;Женский;20;Неоконченное высшее;Экономика;sentence3.2; - ;13A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id31;Мужской;20;Неоконченное высшее;Государственное и муниципальное управление;sentence3.2; - ;13A;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id32;Женский;20;Основное общее;Лингвистика;sentence3.2; - ;13A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id33;Мужской;25;Высшее;IT;sentence3.2; - ;13A;direct
+2;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id34;Женский;21;Неоконченное высшее;Журналистика;sentence3.2; - ;13A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id35;Женский;23;Среднее профессиональное;Сфера обслуживания;sentence3.2; - ;13A;direct
+3;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id36;Женский;20;Основное общее;Учеба;sentence3.2; - ;13A;direct
+2;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id37;Женский;20;Неоконченное высшее;Филология;sentence3.2; - ;13A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id38;Мужской;20;Неоконченное высшее;Учеба;sentence3.2; - ;13A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id39;Мужской;26;Среднее профессиональное;Телевидение;sentence3.2; - ;13A;direct
+1;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id40;Мужской;20;Неоконченное среднее профессиональное;IT;sentence3.2; - ;13A;direct
+1;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id41;Мужской;20;Неоконченное высшее;Туризм;sentence3.2; - ;13A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id42;Мужской;22;Высшее;Юриспруденция;sentence3.2; - ;13A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id43;Мужской;24;Среднее профессиональное;Сфера обслуживания;sentence3.2; - ;13A;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id44;Мужской;29;Высшее;Логистика;sentence3.2; - ;13A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id45;Мужской;25;Высшее;Инженерное дело;sentence3.2; - ;13A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id46;Женский;24;Высшее;IT;sentence3.2; - ;13A;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id47;Мужской;20;Неоконченное среднее профессиональное;IT;sentence3.2; - ;13A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id48;Женский;23;Среднее профессиональное;Работа;sentence3.2; - ;13A;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id49;Женский;27;Среднее профессиональное;Ресторанный бизнес;sentence3.2; - ;13A;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id50;Женский;20;Среднее профессиональное;Работа;sentence3.2; - ;13A;direct
+3;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id26;Женский;20;Неоконченное высшее;Лингвистика;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id27;Женский;20;Неоконченное высшее;Преподавание;sentence11.2; - ;27A;direct
+2;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id28;Женский;21;Неоконченное высшее;Государственное и муниципальное управление;sentence11.2; - ;27A;direct
+3;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id29;Мужской;20;Неоконченное высшее;Искусство;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id30;Женский;20;Неоконченное высшее;Экономика;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id31;Мужской;20;Неоконченное высшее;Государственное и муниципальное управление;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id32;Женский;20;Основное общее;Лингвистика;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id33;Мужской;25;Высшее;IT;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id34;Женский;21;Неоконченное высшее;Журналистика;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id35;Женский;23;Среднее профессиональное;Сфера обслуживания;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id36;Женский;20;Основное общее;Учеба;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id37;Женский;20;Неоконченное высшее;Филология;sentence11.2; - ;27A;direct
+3;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id38;Мужской;20;Неоконченное высшее;Учеба;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id39;Мужской;26;Среднее профессиональное;Телевидение;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id40;Мужской;20;Неоконченное среднее профессиональное;IT;sentence11.2; - ;27A;direct
+3;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id41;Мужской;20;Неоконченное высшее;Туризм;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id42;Мужской;22;Высшее;Юриспруденция;sentence11.2; - ;27A;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id43;Мужской;24;Среднее профессиональное;Сфера обслуживания;sentence11.2; - ;27A;direct
+2;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id44;Мужской;29;Высшее;Логистика;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id45;Мужской;25;Высшее;Инженерное дело;sentence11.2; - ;27A;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id46;Женский;24;Высшее;IT;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id47;Мужской;20;Неоконченное среднее профессиональное;IT;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id48;Женский;23;Среднее профессиональное;Работа;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id49;Женский;27;Среднее профессиональное;Ресторанный бизнес;sentence11.2; - ;27A;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id50;Женский;20;Среднее профессиональное;Работа;sentence11.2; - ;27A;direct
+2;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id26;Женский;20;Неоконченное высшее;Лингвистика;sentence15.2; - ;25A;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id27;Женский;20;Неоконченное высшее;Преподавание;sentence15.2; - ;25A;indirect
+2;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id28;Женский;21;Неоконченное высшее;Государственное и муниципальное управление;sentence15.2; - ;25A;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id29;Мужской;20;Неоконченное высшее;Искусство;sentence15.2; - ;25A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id30;Женский;20;Неоконченное высшее;Экономика;sentence15.2; - ;25A;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id31;Мужской;20;Неоконченное высшее;Государственное и муниципальное управление;sentence15.2; - ;25A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id32;Женский;20;Основное общее;Лингвистика;sentence15.2; - ;25A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id33;Мужской;25;Высшее;IT;sentence15.2; - ;25A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id34;Женский;21;Неоконченное высшее;Журналистика;sentence15.2; - ;25A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id35;Женский;23;Среднее профессиональное;Сфера обслуживания;sentence15.2; - ;25A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id36;Женский;20;Основное общее;Учеба;sentence15.2; - ;25A;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id37;Женский;20;Неоконченное высшее;Филология;sentence15.2; - ;25A;indirect
+3;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id38;Мужской;20;Неоконченное высшее;Учеба;sentence15.2; - ;25A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id39;Мужской;26;Среднее профессиональное;Телевидение;sentence15.2; - ;25A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id40;Мужской;20;Неоконченное среднее профессиональное;IT;sentence15.2; - ;25A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id41;Мужской;20;Неоконченное высшее;Туризм;sentence15.2; - ;25A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id42;Мужской;22;Высшее;Юриспруденция;sentence15.2; - ;25A;indirect
+1;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id43;Мужской;24;Среднее профессиональное;Сфера обслуживания;sentence15.2; - ;25A;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id44;Мужской;29;Высшее;Логистика;sentence15.2; - ;25A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id45;Мужской;25;Высшее;Инженерное дело;sentence15.2; - ;25A;indirect
+1;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id46;Женский;24;Высшее;IT;sentence15.2; - ;25A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id47;Мужской;20;Неоконченное среднее профессиональное;IT;sentence15.2; - ;25A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id48;Женский;23;Среднее профессиональное;Работа;sentence15.2; - ;25A;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id49;Женский;27;Среднее профессиональное;Ресторанный бизнес;sentence15.2; - ;25A;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id50;Женский;20;Среднее профессиональное;Работа;sentence15.2; - ;25A;indirect
+3;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id26;Женский;20;Неоконченное высшее;Лингвистика;sentence10.2; - ;11A;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id27;Женский;20;Неоконченное высшее;Преподавание;sentence10.2; - ;11A;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id28;Женский;21;Неоконченное высшее;Государственное и муниципальное управление;sentence10.2; - ;11A;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id29;Мужской;20;Неоконченное высшее;Искусство;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id30;Женский;20;Неоконченное высшее;Экономика;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id31;Мужской;20;Неоконченное высшее;Государственное и муниципальное управление;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id32;Женский;20;Основное общее;Лингвистика;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id33;Мужской;25;Высшее;IT;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id34;Женский;21;Неоконченное высшее;Журналистика;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id35;Женский;23;Среднее профессиональное;Сфера обслуживания;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id36;Женский;20;Основное общее;Учеба;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id37;Женский;20;Неоконченное высшее;Филология;sentence10.2; - ;11A;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id38;Мужской;20;Неоконченное высшее;Учеба;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id39;Мужской;26;Среднее профессиональное;Телевидение;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id40;Мужской;20;Неоконченное среднее профессиональное;IT;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id41;Мужской;20;Неоконченное высшее;Туризм;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id42;Мужской;22;Высшее;Юриспруденция;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id43;Мужской;24;Среднее профессиональное;Сфера обслуживания;sentence10.2; - ;11A;indirect
+3;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id44;Мужской;29;Высшее;Логистика;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id45;Мужской;25;Высшее;Инженерное дело;sentence10.2; - ;11A;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id46;Женский;24;Высшее;IT;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id47;Мужской;20;Неоконченное среднее профессиональное;IT;sentence10.2; - ;11A;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id48;Женский;23;Среднее профессиональное;Работа;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id49;Женский;27;Среднее профессиональное;Ресторанный бизнес;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id50;Женский;20;Среднее профессиональное;Работа;sentence10.2; - ;11A;indirect
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id76;Мужской;20;Основное общее;IT;sentence24.2; - ;10B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id77;Женский;21;Неоконченное высшее;Иностранные языки;sentence24.2; - ;10B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id78;Мужской;20;Неоконченное высшее;Маркетинг;sentence24.2; - ;10B;direct
+2;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id79;Женский;22;Высшее;Иностранные языки;sentence24.2; - ;10B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id80;Мужской;20;Неоконченное высшее;Учеба;sentence24.2; - ;10B;direct
+1;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id81;Женский;25;Высшее;Консалтинг;sentence24.2; - ;10B;direct
+1;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id82;Женский;24;Высшее;Дизайн;sentence24.2; - ;10B;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id83;Мужской;25;Неоконченное высшее;IT;sentence24.2; - ;10B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id84;Мужской;21;Неоконченное высшее;Инженерное дело;sentence24.2; - ;10B;direct
+1;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id85;Мужской;24;Высшее;IT;sentence24.2; - ;10B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id86;Женский;20;Неоконченное среднее профессиональное;Бухгалтерский учет;sentence24.2; - ;10B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id87;Женский;21;Среднее профессиональное;Легкая промышленость;sentence24.2; - ;10B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id88;Женский;21;Среднее профессиональное;Сфера обслуживания;sentence24.2; - ;10B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id89;Мужской;25;Среднее профессиональное;Инженерное дело;sentence24.2; - ;10B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id90;Женский;21;Среднее общее;Менеджмент;sentence24.2; - ;10B;direct
+1;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id91;Мужской;25;Высшее;Преподавание;sentence24.2; - ;10B;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id92;Мужской;20;Неоконченное среднее профессиональное;IT;sentence24.2; - ;10B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id93;Мужской;20;Неоконченное высшее;Медицина;sentence24.2; - ;10B;direct
+1;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id94;Женский;29;Неоконченное высшее;Менеджмент;sentence24.2; - ;10B;direct
+3;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id95;Женский;20;Среднее общее;Юриспруденция;sentence24.2; - ;10B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id96;Мужской;20;Среднее профессиональное;Юриспруденция;sentence24.2; - ;10B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id97;Мужской;20;Неоконченное высшее;Журналистика;sentence24.2; - ;10B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id98;Женский;20;Высшее;Экономика;sentence24.2; - ;10B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id99;Мужской;27;Высшее;Логистика;sentence24.2; - ;10B;direct
+2;стимул;excl;pair;X аргумент -Y аргумент;args;coord;id100;Мужской;20;Неоконченное высшее;Маркетинг;sentence24.2; - ;10B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id76;Мужской;20;Основное общее;IT;sentence22.2; - ;14B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id77;Женский;21;Неоконченное высшее;Иностранные языки;sentence22.2; - ;14B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id78;Мужской;20;Неоконченное высшее;Маркетинг;sentence22.2; - ;14B;direct
+1;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id79;Женский;22;Высшее;Иностранные языки;sentence22.2; - ;14B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id80;Мужской;20;Неоконченное высшее;Учеба;sentence22.2; - ;14B;direct
+1;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id81;Женский;25;Высшее;Консалтинг;sentence22.2; - ;14B;direct
+1;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id82;Женский;24;Высшее;Дизайн;sentence22.2; - ;14B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id83;Мужской;25;Неоконченное высшее;IT;sentence22.2; - ;14B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id84;Мужской;21;Неоконченное высшее;Инженерное дело;sentence22.2; - ;14B;direct
+1;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id85;Мужской;24;Высшее;IT;sentence22.2; - ;14B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id86;Женский;20;Неоконченное среднее профессиональное;Бухгалтерский учет;sentence22.2; - ;14B;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id87;Женский;21;Среднее профессиональное;Легкая промышленость;sentence22.2; - ;14B;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id88;Женский;21;Среднее профессиональное;Сфера обслуживания;sentence22.2; - ;14B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id89;Мужской;25;Среднее профессиональное;Инженерное дело;sentence22.2; - ;14B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id90;Женский;21;Среднее общее;Менеджмент;sentence22.2; - ;14B;direct
+1;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id91;Мужской;25;Высшее;Преподавание;sentence22.2; - ;14B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id92;Мужской;20;Неоконченное среднее профессиональное;IT;sentence22.2; - ;14B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id93;Мужской;20;Неоконченное высшее;Медицина;sentence22.2; - ;14B;direct
+3;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id94;Женский;29;Неоконченное высшее;Менеджмент;sentence22.2; - ;14B;direct
+3;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id95;Женский;20;Среднее общее;Юриспруденция;sentence22.2; - ;14B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id96;Мужской;20;Среднее профессиональное;Юриспруденция;sentence22.2; - ;14B;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id97;Мужской;20;Неоконченное высшее;Журналистика;sentence22.2; - ;14B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id98;Женский;20;Высшее;Экономика;sentence22.2; - ;14B;direct
+5;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id99;Мужской;27;Высшее;Логистика;sentence22.2; - ;14B;direct
+4;стимул;excl;pair;X аргумент -Y аргумент;args;non-coord;id100;Мужской;20;Неоконченное высшее;Маркетинг;sentence22.2; - ;14B;direct
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id76;Мужской;20;Основное общее;IT;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id77;Женский;21;Неоконченное высшее;Иностранные языки;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id78;Мужской;20;Неоконченное высшее;Маркетинг;sentence21.2; - ;26B;indirect
+1;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id79;Женский;22;Высшее;Иностранные языки;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id80;Мужской;20;Неоконченное высшее;Учеба;sentence21.2; - ;26B;indirect
+1;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id81;Женский;25;Высшее;Консалтинг;sentence21.2; - ;26B;indirect
+1;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id82;Женский;24;Высшее;Дизайн;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id83;Мужской;25;Неоконченное высшее;IT;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id84;Мужской;21;Неоконченное высшее;Инженерное дело;sentence21.2; - ;26B;indirect
+1;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id85;Мужской;24;Высшее;IT;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id86;Женский;20;Неоконченное среднее профессиональное;Бухгалтерский учет;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id87;Женский;21;Среднее профессиональное;Легкая промышленость;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id88;Женский;21;Среднее профессиональное;Сфера обслуживания;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id89;Мужской;25;Среднее профессиональное;Инженерное дело;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id90;Женский;21;Среднее общее;Менеджмент;sentence21.2; - ;26B;indirect
+1;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id91;Мужской;25;Высшее;Преподавание;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id92;Мужской;20;Неоконченное среднее профессиональное;IT;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id93;Мужской;20;Неоконченное высшее;Медицина;sentence21.2; - ;26B;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id94;Женский;29;Неоконченное высшее;Менеджмент;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id95;Женский;20;Среднее общее;Юриспруденция;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id96;Мужской;20;Среднее профессиональное;Юриспруденция;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id97;Мужской;20;Неоконченное высшее;Журналистика;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id98;Женский;20;Высшее;Экономика;sentence21.2; - ;26B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id99;Мужской;27;Высшее;Логистика;sentence21.2; - ;26B;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;coord;id100;Мужской;20;Неоконченное высшее;Маркетинг;sentence21.2; - ;26B;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id76;Мужской;20;Основное общее;IT;sentence18.2; - ;30B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id77;Женский;21;Неоконченное высшее;Иностранные языки;sentence18.2; - ;30B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id78;Мужской;20;Неоконченное высшее;Маркетинг;sentence18.2; - ;30B;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id79;Женский;22;Высшее;Иностранные языки;sentence18.2; - ;30B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id80;Мужской;20;Неоконченное высшее;Учеба;sentence18.2; - ;30B;indirect
+1;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id81;Женский;25;Высшее;Консалтинг;sentence18.2; - ;30B;indirect
+1;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id82;Женский;24;Высшее;Дизайн;sentence18.2; - ;30B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id83;Мужской;25;Неоконченное высшее;IT;sentence18.2; - ;30B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id84;Мужской;21;Неоконченное высшее;Инженерное дело;sentence18.2; - ;30B;indirect
+1;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id85;Мужской;24;Высшее;IT;sentence18.2; - ;30B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id86;Женский;20;Неоконченное среднее профессиональное;Бухгалтерский учет;sentence18.2; - ;30B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id87;Женский;21;Среднее профессиональное;Легкая промышленость;sentence18.2; - ;30B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id88;Женский;21;Среднее профессиональное;Сфера обслуживания;sentence18.2; - ;30B;indirect
+3;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id89;Мужской;25;Среднее профессиональное;Инженерное дело;sentence18.2; - ;30B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id90;Женский;21;Среднее общее;Менеджмент;sentence18.2; - ;30B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id91;Мужской;25;Высшее;Преподавание;sentence18.2; - ;30B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id92;Мужской;20;Неоконченное среднее профессиональное;IT;sentence18.2; - ;30B;indirect
+3;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id93;Мужской;20;Неоконченное высшее;Медицина;sentence18.2; - ;30B;indirect
+3;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id94;Женский;29;Неоконченное высшее;Менеджмент;sentence18.2; - ;30B;indirect
+3;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id95;Женский;20;Среднее общее;Юриспруденция;sentence18.2; - ;30B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id96;Мужской;20;Среднее профессиональное;Юриспруденция;sentence18.2; - ;30B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id97;Мужской;20;Неоконченное высшее;Журналистика;sentence18.2; - ;30B;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id98;Женский;20;Высшее;Экономика;sentence18.2; - ;30B;indirect
+5;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id99;Мужской;27;Высшее;Логистика;sentence18.2; - ;30B;indirect
+4;стимул;excl;pair;адъюнкт-аргумент;adjarg;non-coord;id100;Мужской;20;Неоконченное высшее;Маркетинг;sentence18.2; - ;30B;indirect
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id76;Мужской;20;Основное общее;IT;sentence28.2; - ;28B;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id77;Женский;21;Неоконченное высшее;Иностранные языки;sentence28.2; - ;28B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id78;Мужской;20;Неоконченное высшее;Маркетинг;sentence28.2; - ;28B;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id79;Женский;22;Высшее;Иностранные языки;sentence28.2; - ;28B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id80;Мужской;20;Неоконченное высшее;Учеба;sentence28.2; - ;28B;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id81;Женский;25;Высшее;Консалтинг;sentence28.2; - ;28B;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id82;Женский;24;Высшее;Дизайн;sentence28.2; - ;28B;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id83;Мужской;25;Неоконченное высшее;IT;sentence28.2; - ;28B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id84;Мужской;21;Неоконченное высшее;Инженерное дело;sentence28.2; - ;28B;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id85;Мужской;24;Высшее;IT;sentence28.2; - ;28B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id86;Женский;20;Неоконченное среднее профессиональное;Бухгалтерский учет;sentence28.2; - ;28B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id87;Женский;21;Среднее профессиональное;Легкая промышленость;sentence28.2; - ;28B;direct
+2;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id88;Женский;21;Среднее профессиональное;Сфера обслуживания;sentence28.2; - ;28B;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id89;Мужской;25;Среднее профессиональное;Инженерное дело;sentence28.2; - ;28B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id90;Женский;21;Среднее общее;Менеджмент;sentence28.2; - ;28B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id91;Мужской;25;Высшее;Преподавание;sentence28.2; - ;28B;direct
+3;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id92;Мужской;20;Неоконченное среднее профессиональное;IT;sentence28.2; - ;28B;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id93;Мужской;20;Неоконченное высшее;Медицина;sentence28.2; - ;28B;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id94;Женский;29;Неоконченное высшее;Менеджмент;sentence28.2; - ;28B;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id95;Женский;20;Среднее общее;Юриспруденция;sentence28.2; - ;28B;direct
+3;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id96;Мужской;20;Среднее профессиональное;Юриспруденция;sentence28.2; - ;28B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id97;Мужской;20;Неоконченное высшее;Журналистика;sentence28.2; - ;28B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id98;Женский;20;Высшее;Экономика;sentence28.2; - ;28B;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id99;Мужской;27;Высшее;Логистика;sentence28.2; - ;28B;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;coord;id100;Мужской;20;Неоконченное высшее;Маркетинг;sentence28.2; - ;28B;direct
+4;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id76;Мужской;20;Основное общее;IT;sentence27.2; - ;16B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id77;Женский;21;Неоконченное высшее;Иностранные языки;sentence27.2; - ;16B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id78;Мужской;20;Неоконченное высшее;Маркетинг;sentence27.2; - ;16B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id79;Женский;22;Высшее;Иностранные языки;sentence27.2; - ;16B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id80;Мужской;20;Неоконченное высшее;Учеба;sentence27.2; - ;16B;indirect
+1;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id81;Женский;25;Высшее;Консалтинг;sentence27.2; - ;16B;indirect
+1;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id82;Женский;24;Высшее;Дизайн;sentence27.2; - ;16B;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id83;Мужской;25;Неоконченное высшее;IT;sentence27.2; - ;16B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id84;Мужской;21;Неоконченное высшее;Инженерное дело;sentence27.2; - ;16B;indirect
+2;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id85;Мужской;24;Высшее;IT;sentence27.2; - ;16B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id86;Женский;20;Неоконченное среднее профессиональное;Бухгалтерский учет;sentence27.2; - ;16B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id87;Женский;21;Среднее профессиональное;Легкая промышленость;sentence27.2; - ;16B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id88;Женский;21;Среднее профессиональное;Сфера обслуживания;sentence27.2; - ;16B;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id89;Мужской;25;Среднее профессиональное;Инженерное дело;sentence27.2; - ;16B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id90;Женский;21;Среднее общее;Менеджмент;sentence27.2; - ;16B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id91;Мужской;25;Высшее;Преподавание;sentence27.2; - ;16B;indirect
+2;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id92;Мужской;20;Неоконченное среднее профессиональное;IT;sentence27.2; - ;16B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id93;Мужской;20;Неоконченное высшее;Медицина;sentence27.2; - ;16B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id94;Женский;29;Неоконченное высшее;Менеджмент;sentence27.2; - ;16B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id95;Женский;20;Среднее общее;Юриспруденция;sentence27.2; - ;16B;indirect
+3;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id96;Мужской;20;Среднее профессиональное;Юриспруденция;sentence27.2; - ;16B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id97;Мужской;20;Неоконченное высшее;Журналистика;sentence27.2; - ;16B;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id98;Женский;20;Высшее;Экономика;sentence27.2; - ;16B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id99;Мужской;27;Высшее;Логистика;sentence27.2; - ;16B;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;non-coord;id100;Мужской;20;Неоконченное высшее;Маркетинг;sentence27.2; - ;16B;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id76;Мужской;20;Основное общее;IT;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id77;Женский;21;Неоконченное высшее;Иностранные языки;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id78;Мужской;20;Неоконченное высшее;Маркетинг;sentence20.2; - ;12B;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id79;Женский;22;Высшее;Иностранные языки;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id80;Мужской;20;Неоконченное высшее;Учеба;sentence20.2; - ;12B;indirect
+1;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id81;Женский;25;Высшее;Консалтинг;sentence20.2; - ;12B;indirect
+1;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id82;Женский;24;Высшее;Дизайн;sentence20.2; - ;12B;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id83;Мужской;25;Неоконченное высшее;IT;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id84;Мужской;21;Неоконченное высшее;Инженерное дело;sentence20.2; - ;12B;indirect
+2;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id85;Мужской;24;Высшее;IT;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id86;Женский;20;Неоконченное среднее профессиональное;Бухгалтерский учет;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id87;Женский;21;Среднее профессиональное;Легкая промышленость;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id88;Женский;21;Среднее профессиональное;Сфера обслуживания;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id89;Мужской;25;Среднее профессиональное;Инженерное дело;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id90;Женский;21;Среднее общее;Менеджмент;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id91;Мужской;25;Высшее;Преподавание;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id92;Мужской;20;Неоконченное среднее профессиональное;IT;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id93;Мужской;20;Неоконченное высшее;Медицина;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id94;Женский;29;Неоконченное высшее;Менеджмент;sentence20.2; - ;12B;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id95;Женский;20;Среднее общее;Юриспруденция;sentence20.2; - ;12B;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id96;Мужской;20;Среднее профессиональное;Юриспруденция;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id97;Мужской;20;Неоконченное высшее;Журналистика;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id98;Женский;20;Высшее;Экономика;sentence20.2; - ;12B;indirect
+5;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id99;Мужской;27;Высшее;Логистика;sentence20.2; - ;12B;indirect
+4;стимул;excl;pair;Y аргумент - X аргумент;args;coord;id100;Мужской;20;Неоконченное высшее;Маркетинг;sentence20.2; - ;12B;indirect
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id76;Мужской;20;Основное общее;IT;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id77;Женский;21;Неоконченное высшее;Иностранные языки;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id78;Мужской;20;Неоконченное высшее;Маркетинг;sentence30.2; - ;32B;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id79;Женский;22;Высшее;Иностранные языки;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id80;Мужской;20;Неоконченное высшее;Учеба;sentence30.2; - ;32B;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id81;Женский;25;Высшее;Консалтинг;sentence30.2; - ;32B;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id82;Женский;24;Высшее;Дизайн;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id83;Мужской;25;Неоконченное высшее;IT;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id84;Мужской;21;Неоконченное высшее;Инженерное дело;sentence30.2; - ;32B;direct
+2;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id85;Мужской;24;Высшее;IT;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id86;Женский;20;Неоконченное среднее профессиональное;Бухгалтерский учет;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id87;Женский;21;Среднее профессиональное;Легкая промышленость;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id88;Женский;21;Среднее профессиональное;Сфера обслуживания;sentence30.2; - ;32B;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id89;Мужской;25;Среднее профессиональное;Инженерное дело;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id90;Женский;21;Среднее общее;Менеджмент;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id91;Мужской;25;Высшее;Преподавание;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id92;Мужской;20;Неоконченное среднее профессиональное;IT;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id93;Мужской;20;Неоконченное высшее;Медицина;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id94;Женский;29;Неоконченное высшее;Менеджмент;sentence30.2; - ;32B;direct
+1;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id95;Женский;20;Среднее общее;Юриспруденция;sentence30.2; - ;32B;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id96;Мужской;20;Среднее профессиональное;Юриспруденция;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id97;Мужской;20;Неоконченное высшее;Журналистика;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id98;Женский;20;Высшее;Экономика;sentence30.2; - ;32B;direct
+5;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id99;Мужской;27;Высшее;Логистика;sentence30.2; - ;32B;direct
+4;стимул;excl;pair;аргумент-адъюнкт;adjarg;non-coord;id100;Мужской;20;Неоконченное высшее;Маркетинг;sentence30.2; - ;32B;direct
